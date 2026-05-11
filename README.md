@@ -1,5 +1,5 @@
 # R Lalith - Portfolio Website
-Link Site https://github.com/lalithcoder/Portfolio.git
+
 
 ## Objective
 To understand how AI tools can be used to build websites easily without coding
